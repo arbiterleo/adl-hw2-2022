@@ -3,18 +3,18 @@
 <ForPhones>
 NONSILENCEPHONES
 </ForPhones> 
-<State> 0 <PdfClass> 0 <Transition> 0 0.75 <Transition> 1 0.25 </State> 
-<State> 1 <PdfClass> 1 <Transition> 1 0.75 <Transition> 2 0.25 </State> 
-<State> 2 <PdfClass> 2 <Transition> 2 0.75 <Transition> 3 0.25 </State> 
+<State> 0 <PdfClass> 0 <Transition> 0 0.9 <Transition> 1 0.1 </State> 
+<State> 1 <PdfClass> 1 <Transition> 1 0.9 <Transition> 2 0.1 </State>  
+<State> 2 <PdfClass> 2 <Transition> 2 0.9 <Transition> 3 0.1 </State>
 <State> 3 </State>
 </TopologyEntry> 
 <TopologyEntry> 
 <ForPhones>
 SILENCEPHONES
 </ForPhones> 
-<State> 0 <PdfClass> 0 <Transition> 0 0.50 <Transition> 1 0.25 <Transition> 2 0.25 </State>
-<State> 1 <PdfClass> 1 <Transition> 1 0.50 <Transition> 2 0.25 <Transition> 3 0.25 </State>
-<State> 2 <PdfClass> 2 <Transition> 1 0.25 <Transition> 2 0.25 <Transition> 3 0.50 </State>
+<State> 0 <PdfClass> 0 <Transition> 0 0.5 <Transition> 1 0.5 </State>
+<State> 1 <PdfClass> 1 <Transition> 1 0.5 <Transition> 2 0.5 </State>
+<State> 2 <PdfClass> 2 <Transition> 2 0.5 <Transition> 3 0.5 </State>
 <State> 3 </State>
 </TopologyEntry> 
 </Topology> 
